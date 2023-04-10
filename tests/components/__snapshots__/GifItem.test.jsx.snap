@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en Gif Item Match con el Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Tanjiro"
+      src="https://demon-slayer.com/tanjiro.jpg"
+    />
+    <p>
+      Tanjiro
+    </p>
+  </div>
+</div>
+`;
